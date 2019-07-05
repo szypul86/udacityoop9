@@ -11,5 +11,9 @@ public class Piece {
         }
     }
 
+    /* to be done method move  () {
+
+    }*/
+
 
 }
